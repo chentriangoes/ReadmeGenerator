@@ -3,10 +3,10 @@
   
   
 #  Project Title
-   test
+   ReadmeGenerator
   
 ##  Description
-   test
+   A README Generator accepting user inputs through command-line application to output a professional file of projects for web development
   
   
 ## Table of Contents
@@ -24,12 +24,12 @@
   
     To install dependencies, run the below command :
   
-    test
+    npm init
   
   
   
 ## Usage
-    test
+    Run the Command: node index.js
   
   
 ## License
@@ -40,10 +40,10 @@
       
     
 ## Contribution
-    test
+    Yi-Tsun Chen and please contact me if you would like to make your contribution
   
 ## Tests
-    test
+    Under construction
   
 ## Questions
   
